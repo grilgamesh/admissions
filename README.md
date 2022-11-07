@@ -31,9 +31,9 @@ Moreover, students who might be first-in-family to university have all sorts of 
 
 
 ### Foot notes
-1 https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/populationestimatesbyethnicgroupandreligionenglandandwales/2019 
-2  https://www.birmingham.ac.uk/teachers/year-12/pathways-to-birmingham/a2b/index.aspx 
-3  https://uobschool.org.uk/; “The school has a ‘multi-nodal’ admissions policy whereby after priority admission for pupils with a statement of special educational needs or an education, health and care plan or who are looked after, half of the remaining places are allocated to pupils from three socially disadvantaged areas in the city and the other half from the school’s immediate surrounding area.” (Emphasis mine). From 2018 OfStEd inspection, https://files.ofsted.gov.uk/v1/file/2777279 
-4  https://www.ethnicity-facts-figures.service.gov.uk/uk-population-by-ethnicity/national-and-regional-populations/regional-ethnic-diversity/latest#areas-of-england-and-wales-by-ethnicity 
+1 https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/populationestimatesbyethnicgroupandreligionenglandandwales/2019  
+2  https://www.birmingham.ac.uk/teachers/year-12/pathways-to-birmingham/a2b/index.aspx  
+3  https://uobschool.org.uk/; “The school has a ‘multi-nodal’ admissions policy whereby after priority admission for pupils with a statement of special educational needs or an education, health and care plan or who are looked after, half of the remaining places are allocated to pupils from three socially disadvantaged areas in the city and the other half from the school’s immediate surrounding area.” (Emphasis mine). From 2018 OfStEd inspection, https://files.ofsted.gov.uk/v1/file/2777279  
+4  https://www.ethnicity-facts-figures.service.gov.uk/uk-population-by-ethnicity/national-and-regional-populations/regional-ethnic-diversity/latest#areas-of-england-and-wales-by-ethnicity  
 5  https://www.suttontrust.com/wp-content/uploads/2021/05/Measuring-Disadvantage.pdf 
 
