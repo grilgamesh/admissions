@@ -1,6 +1,6 @@
 # Widening Participation at the University of Birmingham
 ## Key Insight
-It is clear from The University of Birmingham (UoB)’s data that action has been taken to widen participation, most clearly since 2018. This is in evidence in the distribution of ethnic groups attending the university.
+It is clear from The University of Birmingham (UoB)’s data that action has been taken to widen participation, most clearly since 2018. This is in evidence in the distribution of ethnic groups attending the university.  
 ![image](https://user-images.githubusercontent.com/98031776/200385746-16a8b080-3ddc-4f33-8dbd-faac0746be10.png)
 
  
@@ -15,7 +15,7 @@ We can see that in 2010, black ethnic group students were significantly under-re
  
 ## How can Unifrog help this situation? 
 Clearly UoB has had successes in widening participation along the dimension of ethnicity.  
-However, there is gender gap:
+However, there is gender gap:  
 ![image](https://user-images.githubusercontent.com/98031776/200385900-9217aef7-15b7-4bd0-a90e-991054d3292e.png)
  
 UoB is more popular with women than men, and this has remained consistent over the data. This is possibly due to the range of courses popular at UoB; it is renowned for its humanities departments and its close links to the Queen Elizabeth Hospital close by give it a highly regarded medicine course, all of which are stereotypically more popular among women. Perhaps Unifrog could be implemented as a resource to open young people’s minds to alternatives they had maybe not considered, in order to break people out of gendered habits such as this, and reach greater gender equality across studies.
